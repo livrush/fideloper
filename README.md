@@ -1,8 +1,6 @@
-## One Light Syntax theme
+## Fideloper theme for Atom
 
-![one-syntax-light](https://cloud.githubusercontent.com/assets/378023/7783214/c146b4e6-0174-11e5-8377-a57cf0274d5d.png)
-
-> The font used in the screenshot is [Fira Mono](https://github.com/mozilla/Fira).
+![fideloper](colors.png)
 
 There is also a matching [UI theme](https://atom.io/themes/one-light-ui).
 
