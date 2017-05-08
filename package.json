@@ -1,13 +1,12 @@
 {
-  "name": "one-light-syntax",
+  "name": "fideloper",
   "theme": "syntax",
-  "version": "1.7.1",
-  "description": "Atom One light syntax theme",
+  "version": "1.0.0",
+  "description": "Atom Fideloper theme",
   "keywords": [
-    "light",
-    "syntax"
+    "fideloper"
   ],
-  "repository": "https://github.com/atom/one-light-syntax",
+  "repository": "https://github.com/livrush/fideloper",
   "license": "MIT",
   "engines": {
     "atom": ">0.40.0"
