@@ -1,12 +1,13 @@
 {
-  "name": "fideloper",
+  "name": "fideloper-syntax",
   "theme": "syntax",
-  "version": "1.0.0",
-  "description": "Atom Fideloper theme",
+  "version": "0.1.0",
+  "description": "Atom Fideloper syntax theme",
   "keywords": [
-    "fideloper"
+    "fideloper",
+    "syntax"
   ],
-  "repository": "https://github.com/livrush/fideloper",
+  "repository": "https://github.com/livrush/fideloper-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.40.0"
